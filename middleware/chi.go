@@ -1,0 +1,1 @@
+Please modify the `chi.go` file to add the `return` statement after `http.Error` or `w.WriteHeader`.
